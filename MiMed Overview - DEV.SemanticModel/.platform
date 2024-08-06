@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "MiMed Overview - DEV"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "0d77fd8c-e73b-456a-beb6-0c4cd26376ae"
+  }
+}

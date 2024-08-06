@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "MiMed Overview - DEV"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "62958728-e6fc-4443-a2db-f0f1a83e13db"
+  }
+}

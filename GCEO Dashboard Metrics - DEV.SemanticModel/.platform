@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "GCEO Dashboard Metrics - DEV"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "4a83485d-6d0d-4368-a745-f567bb3a1d29"
+  }
+}

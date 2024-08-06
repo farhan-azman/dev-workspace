@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "MiMed Overview - MiCare_API_NoParameter Dataflow"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "1c754fca-06cf-49db-8783-4c7d797447aa"
+  }
+}
